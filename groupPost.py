@@ -1,7 +1,7 @@
 import pyautogui
 import time
 
-groups = ['251123409000385','843804142348443','900389246658181']
+groups = ['376367902439483','108855792618202','857055861987794']
 
 time.sleep(5)
 
@@ -21,7 +21,7 @@ for i in range(len(groups)):
     pyautogui.typewrite('p')
     time.sleep(2)
     print("Writing post\n")
-    pyautogui.typewrite("Hello there, it's a testing post from messy programmers")
+    pyautogui.typewrite("If anyone is intrested in buying Elegant Crystal Chandelier and Table Lamp Comment below or PM me")
     time.sleep(4)
 
     pyautogui.keyDown('ctrl')
